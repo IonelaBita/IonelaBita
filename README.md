@@ -2,7 +2,7 @@
 
 - 👀 I am interested in new opportunities in Software Testing
 
-- 🌱 I recently completed a course in Manual Testing and Introduction to Automated Testing at Wantsome School.
+- 🌱 I recently completed a course in Manual Testing and Introduction in Automated Testing at Wantsome School.
 
 
 I am an ambitious, open-minded, curious and motivated person. 
